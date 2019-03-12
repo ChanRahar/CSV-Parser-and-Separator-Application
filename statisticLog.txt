@@ -1,0 +1,6 @@
+Mar 10, 2019 10:24:59 PM com.chandra.raharja.App main
+INFO: Number of Records Received: 6000
+Mar 10, 2019 10:24:59 PM com.chandra.raharja.App main
+INFO: Number of Records Successful: 4869
+Mar 10, 2019 10:24:59 PM com.chandra.raharja.App main
+SEVERE: Number of Records Failed: 1131
